@@ -1,0 +1,6 @@
+https://pypi.org/project/face-recognition/
+
+https://www.kaggle.com/c/challenges-in-representation-learning-facial-expression-recognition-challenge/data
+
+https://www.kaggle.com/jonathanoheix/face-expression-recognition-dataset
+
